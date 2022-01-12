@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": "Home page",
+    "about": "About page"
+  },
+  "navigations": {
+    "home": "Home",
+    "about": "About"
+  },
+  "labels": {
+    "language": "Languages"
+  }
+}

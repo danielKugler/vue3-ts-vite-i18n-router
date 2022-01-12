@@ -1,0 +1,13 @@
+{
+	"pages": {
+		"home": "Startseite",
+		"about": "Über uns"
+	},
+	"navigations": {
+		"home": "Start",
+		"about": "Über uns"
+	},
+	"labels": {
+		"language": "Sprachen"
+	}
+}
